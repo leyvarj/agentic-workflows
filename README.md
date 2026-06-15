@@ -1,4 +1,4 @@
-# Workflows
+# Agentic Workflows
 
 Skills used with [opencode](https://opencode.ai/) and
 [claude code](https://claude.com/product/claude-code).
