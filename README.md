@@ -1,10 +1,12 @@
 # Agentic Workflows
 
-Skills used with [opencode](https://opencode.ai/) and
-[claude code](https://claude.com/product/claude-code).
+Skills for AI-powered coding agents. Drop any of these into your agent's skills
+directory to enable the workflow.
 
 ```
 skills/
 ├── create-skill/   Meta-skill for creating new skill
-└── git-commit/     Commit generator
+├── git-commit/     Commit generator
+├── git-pr/         PR generator
+└── git-merge/      Merge PR generator
 ```
